@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bliunh
-- 👀 I’m interested in C#/.NET
+- 👀 I’m interested in C#/.NET, Python
 - 🌱 I’m currently learning everything as needed
 - 📫 How to reach me at email
 
